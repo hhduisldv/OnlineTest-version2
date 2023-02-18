@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "iconfont"; /* Project id 3580922 */
+    src: url('//at.alicdn.com/t/c/font_3580922_goduu5656rf.woff2?t=1660138404172') format('woff2'),
+         url('//at.alicdn.com/t/c/font_3580922_goduu5656rf.woff?t=1660138404172') format('woff'),
+         url('//at.alicdn.com/t/c/font_3580922_goduu5656rf.ttf?t=1660138404172') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-kechengbiao:before {
+    content: "\e63c";
+  }
+  
+  .icon-performance:before {
+    content: "\e64d";
+  }
+  
+  .icon-time:before {
+    content: "\eb88";
+  }
+  
+  .icon-fenshu:before {
+    content: "\ebe5";
+  }
+  
+  .icon-pen:before {
+    content: "\e63d";
+  }
+  
+  .icon-share:before {
+    content: "\e63e";
+  }
+  
+  .icon-meunfold:before {
+    content: "\e65c";
+  }
+  
+  .icon-kaoshi:before {
+    content: "\eb65";
+  }
+  
+  .icon-previous:before {
+    content: "\e665";
+  }
+  
+  .icon-next:before {
+    content: "\e666";
+  }
+  
+  .icon-user:before {
+    content: "\e99e";
+  }
+  
